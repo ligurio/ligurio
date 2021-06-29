@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi, I'm Sergey
 
-<!--
-**ligurio/ligurio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm writing software professionally since 2005.
 
-Here are some ideas to get you started:
+## My work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Sometimes I write about software development in a [blog](https://bronevichok.ru/en/)
+- Also, I write my thoughts in a publicly-accessible [Telegram channel](https://t.me/sqaunderhood)
+- And have a [website](https://bronevichok.ru/) where I publish current status of my projects
+
+## How to reach me
+
+- E-mail: [s@brnkv.ru](mailto:s@brnkv.ru)
+- Telegram: http://t.me/ligurio
