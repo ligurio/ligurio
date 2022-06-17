@@ -6,5 +6,5 @@ You may want to:
 - Subscribe to my Telegram channel [t.me/sqaunderhood](https://t.me/sqaunderhood)
 - Follow me on Twitter [@estet](https://twitter.com/intent/follow?screen_name=estet)
 - Check the repos I'm working on right now:
-[ljepsen](https://github.com/ligurio/ljepsen) and
+[molly](https://github.com/ligurio/molly) and
 [elle-cli](https://github.com/ligurio/elle-cli)
